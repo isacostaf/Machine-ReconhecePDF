@@ -1,0 +1,159 @@
+CATEGORIA:
+Ministério da Pesca e Aquicultura, que convoca a 4ª
+
+TITULO:
+57, DE 5 DE MAIO DE 2026
+
+TEXTO:
+57, DE 5 DE MAIO DE 2026
+difica fontes de recursos constantes do Orçamento Fiscal da União, no âmbito dos Ministérios
+Educação; do Desenvolvimento Agrário e Agricultura Familiar; e de Portos e Aeroportos.
+ral, no uso da competência que lhe foi delegada pelo art. 1º, inciso II, alínea "b", da Portaria
+3, caput e § 1º, inciso III, alínea "a", da Lei nº 15.321, de 31 de dezembro de 2025, resolve:
+s constantes da Lei nº 15.346, de 14 de janeiro de 2026, no que concerne aos Ministérios da
+GLÁUCIO RAFAEL DA ROCHA CHARÃO
+Outras Alterações Orçamentárias
+Recurso de Todas as Fontes R$ 1,00
+.FUNCIONAL .E .G .R .M .I .F V A LO R
+S N P O U T
+F D D E
+22.800.000.000
+12 847 22.800.000.000
+e 12 847 22.800.000.000
+F 3- 1 30 8 3008 6.592.909.889
+F 3- 1 30 8 3151 1.351.948.291
+F 3- 1 40 8 3149 10.029.565.076
+F 3- 1 40 8 3151 3.220.774.271
+. .F .3- .1 .40 .8 .3152 1.604.802.473
+22.800.000.000
+22.800.000.000
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
+ÓRGÃO: 49000 - Ministério do Desenvolvimento Agrário e Agricultura Familiar
+UNIDADE: 49201 - Instituto Nacional de Colonização e Reforma Agrária - INCRA
+ANEXO I
+PROGRAMA DE TRABALHO ( ACRÉSCIMO )
+.P R O G R A M ÁT I C A .P R O G R A M A / AÇ ÃO / LO C A L I Z A D O R / P R O D U T O
+5136 Governança Fundiária, Reforma Agrária e Regularização de
+Territórios Quilombolas e de Povos e Comunidades Tradicionais
+.At i v i d a d e s
+5136 21GD Reforma Agrária e Governança Fundiária
+5136 21GD 0001 Reforma Agrária e Governança Fundiária - Nacional
+.TOTAL - FISCAL
+.TOTAL - SEGURIDADE
+.TOTAL - GERAL
+ÓRGÃO: 68000 - Ministério de Portos e Aeroportos
+UNIDADE: 68213 - Agência Nacional de Aviação Civil - ANAC
+ANEXO I
+PROGRAMA DE TRABALHO ( ACRÉSCIMO )
+.P R O G R A M ÁT I C A .P R O G R A M A / AÇ ÃO / LO C A L I Z A D O R / P R O D U T O
+0032 Programa de Gestão e Manutenção do Poder Executivo
+.At i v i d a d e s
+0032 2000 Administração da Unidade
+0032 2000 0001 Administração da Unidade - Nacional
+.TOTAL - FISCAL
+.TOTAL - SEGURIDADE
+.TOTAL - GERAL
+ÓRGÃO: 26000 - Ministério da Educação
+UNIDADE: 26298 - Fundo Nacional de Desenvolvimento da Educação
+ANEXO II
+PROGRAMA DE TRABALHO ( REDUÇÃO )
+.P R O G R A M ÁT I C A .P R O G R A M A / AÇ ÃO / LO C A L I Z A D O R / P R O D U T O
+5111 Educação Básica Democrática, com qualidade e equidade
+.Operações Especiais
+5111 00SB Complementação da União ao Fundo de Manutenção e
+Desenvolvimento da Educação Básica e de Valorização dos
+Profissionais da Educação - Fundeb
+5111 00SB 0001 Complementação da União ao Fundo de Manutenção
+Desenvolvimento da Educação Básica e de Valorização
+Profissionais da Educação - Fundeb - Nacional
+.TOTAL - FISCAL
+.TOTAL - SEGURIDADE
+.TOTAL - GERAL
+ÓRGÃO: 49000 - Ministério do Desenvolvimento Agrário e Agricultura Familiar
+UNIDADE: 49201 - Instituto Nacional de Colonização e Reforma Agrária - INCRA
+ANEXO II
+PROGRAMA DE TRABALHO ( REDUÇÃO )
+.P R O G R A M ÁT I C A .P R O G R A M A / AÇ ÃO / LO C A L I Z A D O R / P R O D U T O
+5136 Governança Fundiária, Reforma Agrária e Regularização de
+Territórios Quilombolas e de Povos e Comunidades Tradicionais
+.At i v i d a d e s
+5136 21GD Reforma Agrária e Governança Fundiária
+5136 21GD 0001 Reforma Agrária e Governança Fundiária - Nacional
+.TOTAL - FISCAL
+.TOTAL - SEGURIDADE
+.TOTAL - GERAL
+ÓRGÃO: 68000 - Ministério de Portos e Aeroportos
+UNIDADE: 68213 - Agência Nacional de Aviação Civil - ANAC
+ANEXO II
+PROGRAMA DE TRABALHO ( REDUÇÃO )
+.P R O G R A M ÁT I C A .P R O G R A M A / AÇ ÃO / LO C A L I Z A D O R / P R O D U T O
+0032 Programa de Gestão e Manutenção do Poder Executivo
+.At i v i d a d e s
+0032 2000 Administração da Unidade
+0032 2000 0001 Administração da Unidade - Nacional
+.TOTAL - FISCAL
+.TOTAL - SEGURIDADE
+.TOTAL - GERAL
+Este documento pode ser verificado no endereço eletrônico
+Outras Alterações Orçamentárias
+Recurso de Todas as Fontes R$ 1,00
+.FUNCIONAL .E .G .R .M .I .F V A LO R
+S N P O U T
+F D D E
+70.874.647
+21 127 70.874.647
+21 127 70.874.647
+. .F .5-IFI .2 .90 .0 .1057 70.874.647
+70.874.647
+70.874.647
+Outras Alterações Orçamentárias
+Recurso de Todas as Fontes R$ 1,00
+.FUNCIONAL .E .G .R .M .I .F V A LO R
+S N P O U T
+F D D E
+1.176.870
+26 122 1.176.870
+26 122 1.176.870
+. .F .3- .2 .90 .0 .1050 1.176.870
+1.176.870
+1.176.870
+Outras Alterações Orçamentárias
+Recurso de Todas as Fontes R$ 1,00
+.FUNCIONAL .E .G .R .M .I .F V A LO R
+S N P O U T
+F D D E
+22.800.000.000
+12 847 22.800.000.000
+e 12 847 22.800.000.000
+F 3- 1 30 8 1000 7.944.858.180
+. .F .3- .1 .40 .8 .1000 14.855.141.820
+22.800.000.000
+22.800.000.000
+Outras Alterações Orçamentárias
+Recurso de Todas as Fontes R$ 1,00
+.FUNCIONAL .E .G .R .M .I .F V A LO R
+S N P O U T
+F D D E
+70.874.647
+21 127 70.874.647
+21 127 70.874.647
+F 5-IFI 2 90 0 1000 68.764.201
+. .F .5-IFI .2 .90 .0 .1051 2.110.446
+70.874.647
+70.874.647
+Outras Alterações Orçamentárias
+Recurso de Todas as Fontes R$ 1,00
+.FUNCIONAL .E .G .R .M .I .F V A LO R
+S N P O U T
+F D D E
+1.176.870
+26 122 1.176.870
+26 122 1.176.870
+. .F .3- .2 .90 .0 .1088 1.176.870
+1.176.870
+1.176.870
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
+Ministério de Portos e Aeroportos
+AGÊNCIA NACIONAL DE AVIAÇÃO CIVIL
+SUPERINTENDÊNCIA DE INFRAESTRUTURA AEROPORTUÁRIA
+GERÊNCIA DE CERTIFICAÇÃO E SEGURANÇA OPERACIONAL

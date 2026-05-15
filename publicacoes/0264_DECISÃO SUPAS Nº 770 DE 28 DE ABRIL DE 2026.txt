@@ -1,0 +1,60 @@
+CATEGORIA:
+Ministério dos Transportes.
+
+TITULO:
+DECISÃO SUPAS Nº 770, DE 28 DE ABRIL DE 2026
+
+TEXTO:
+DECISÃO SUPAS Nº 770, DE 28 DE ABRIL DE 2026
+O Superintendente de Serviços de Transporte Rodoviário de Passageiros
+Substituto da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas
+atribuições, em conformidade com o art. 3º e o inciso XV do art. 8º, ambos do Anexo da
+Resolução nº 5.818, de 3 de maio de 2018, e com o inciso IV do art. 29, e inciso VIII do
+art. 105, ambos da Resolução nº 5.976, de 7 de abril de 2022, e pelo o que consta no
+processo nº 50500.167280/2024-58, decide:
+Art. 1º Deferir o pedido da EMTRAM - EMPRESA DE TRANSP. MACAUBENSE
+LTDA., CNPJ nº 16.041.592/0001-20, para modificar o Termo de Autorização - TAR nº
+BASP0023004, linha SEABRA/BA - SÃO PAULO/SP, com a implantação das seções indicadas
+de 2 a 32, no anexo da Decisão.
+Parágrafo único. A implantação de nova seção intermediária na linha implica no
+reinício da contagem do período mínimo de atendimento da linha.
+Art. 2º Alterar o anexo da Decisão SUPAS nº 1.678, de 10 de outubro de 2024,
+publicada no DOU de 18 de outubro de 2024, pág. 135, que passa a vigorar conforme
+anexo da presente decisão.
+Art. 3º Esta Decisão entra em vigor na data de sua publicação.
+ANDERSON LOUSAN DO NASCIMENTO POUBEL
+ANEXO
+.Ref. .Seções
+.1 .SEABRA/BA-SAO PAULO/SP
+.2 .B O N I N A L / BA - B E T I M / M G
+.3 .B O N I N A L / BA - P E R D O ES / M G
+.4 .BONINAL/BA-POUSO ALEGRE/MG
+.5 .B O N I N A L / BA - AT I BA I A / S P
+.6 .BONINAL/BA-SAO PAULO/SP
+.7 .P I AT A / BA - B E T I M / M G
+.8 .P I AT A / BA - P E R D O ES / M G
+.9 .PIATA/BA-POUSO ALEGRE/MG
+.10 .P I AT A / BA - AT I BA I A / S P
+.11 .PIATA/BA-SAO PAULO/SP
+.12 .A BA I R A / BA - B E T I M / M G
+.13 .A BA I R A / BA - P E R D O ES / M G
+.14 .ABAIRA/BA-POUSO ALEGRE/MG
+.15 .A BA I R A / BA - AT I BA I A / S P
+.16 .J U S S I A P E / BA - B E T I M / M G
+.17 .J U S S I A P E / BA - P E R D O ES / M G
+.18 .JUSSIAPE/BA-POUSO ALEGRE/MG
+.19 .J U S S I A P E / BA - AT I BA I A / S P
+.20 .JUSSIAPE/BA-SAO PAULO/SP
+.21 .LIVRAMENTO DE NOSSA SENHORA/BA-BETIM/MG
+.22 .LIVRAMENTO DE NOSSA SENHORA/BA-PERDOES/MG
+.23 .LIVRAMENTO DE NOSSA SENHORA/BA-POUSO ALEGRE/MG
+.24 .LIVRAMENTO DE NOSSA SENHORA/BA-ATIBAIA/SP
+.25 .B R U M A D O / BA - B E T I M / M G
+.26 .B R U M A D O / BA - P E R D O ES / M G
+.27 .C A E T I T E / BA - B E T I M / M G
+.28 .C A E T I T E / BA - P E R D O ES / M G
+.29 .SEABRA/BA-POUSO ALEGRE/MG
+.30 .S EA B R A / BA - P E R D O ES / M G
+.31 .S EA B R A / BA - B E T I M / M G
+.32 .S EA B R A / BA - AT I BA I A / S P
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.

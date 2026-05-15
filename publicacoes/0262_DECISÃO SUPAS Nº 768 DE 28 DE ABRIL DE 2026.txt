@@ -1,0 +1,146 @@
+CATEGORIA:
+Ministério dos Transportes.
+
+TITULO:
+DECISÃO SUPAS Nº 768, DE 28 DE ABRIL DE 2026
+
+TEXTO:
+DECISÃO SUPAS Nº 768, DE 28 DE ABRIL DE 2026
+O Superintendente de Serviços de Transporte Rodoviário de Passageiros
+Substituto da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas
+atribuições, em conformidade com o art. 3º e o inciso X do art. 8º, ambos do Anexo
+da Resolução nº 5.818, de 3 de maio de 2018, e com o inciso IV do art. 29, e inciso
+VIII do art. 105, ambos da Resolução nº 5.976, de 7 de abril de 2022, e considerando
+o que consta no processo nº 50505.027369/2026-02, decide:
+Art. 1º Emitir o Termo de Autorização - TAR nº SPSC0059029 à EMPRESA
+PRINCESA DO NORTE S/A, CNPJ nº 81.159.857/0001-50, para prestação do serviço
+regular de transporte rodoviário coletivo interestadual de passageiros, sob o regime de
+autorização, na linha BOTUCATU/SP - FLORIANOPOLIS/SC, conforme seções relacionadas
+no Anexo desta Decisão, tendo em vista que os mercados objetos do pleito de emissão
+de TAR são autorizados à requerente, em cumprimento à Resolução nº 6.033, de 21
+de dezembro de 2023.
+Art. 2º A autorizatária deverá iniciar a prestação dos serviços em até 30
+(trinta) dias, contados do início da vigência do TAR, sendo admitida a prorrogação do
+prazo uma única vez, por igual período, desde que por motivo justificado.
+Parágrafo único. A inobservância do prazo e condições dispostas neste
+artigo importará na revogação do TAR.
+Art. 3º É vedada a operação de linha com seções em municípios distintos
+dos que constam nos TAR delegados à autorizatária.
+Art. 4º O TAR poderá ser extinto por plena eficácia, quando, alteradas as
+condições vigentes, seja por meio de lei ou regulamentação, não atender às novas
+condições após conferido prazo de adequação, conforme art. 47 da Lei nº 10.233, de
+5 de junho de 2001.
+Art. 5º A autorizatária poderá, a qualquer tempo, solicitar a renúncia do
+TAR, desde que observadas as regras dispostas no art. 33 da Resolução ANTT nº 6.033,
+de 2023.
+Art. 6º Será declarada a nulidade do TAR quando verificada a ilegalidade do
+ato.
+Parágrafo único. Na hipótese do caput, a SUPAS deverá impedir os efeitos
+jurídicos que ordinariamente o ato deveria produzir, além de desconstituir os já
+produzidos, respeitados o princípio da ampla defesa e do contraditório.
+Art. 7º O TAR poderá ser extinto mediante cassação nas seguintes
+hipóteses:
+I - no caso de perda das condições indispensáveis à manutenção do TAR,
+observado o disposto nos arts. 29, 35 e 38 da Resolução ANTT nº 6.033, de 2023; e
+II - no caso de infração grave, apurada mediante processo administrativo
+ordinário, conforme previsto na Resolução 5.083, de 27 de abril de 2016, ou outra
+norma que lhe vier a substituir.
+Art. 8º A não observância do disposto nesta Decisão poderá implicar na
+aplicação das outras sanções previstas em resolução específica.
+Art. 9º Esta Decisão entra em vigor na data de sua publicação.
+ANDERSON LOUSAN DO NASCIMENTO POUBEL
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
+ANEXO
+.R .S EÇÕ ES
+E F.
+.1 .A R A P OT I / P R - F LO R I A N O P O L I S / S C
+.2 .A R A P OT I / P R - J O I N V I L L E / S C
+.3 .ARAPOTI/PR-ITA JAI/SC
+.4 .ARAPOTI/PR-BALNEARIO CAMBORIU/SC
+.5 .A R A P OT I / P R - I T A P E M A / S C
+.6 .F LO R I A N O P O L I S / S C - AV A R E / S P
+.7 .WENCESLAU BRAZ/PR-AVARE/SP
+.8 .A R A P OT I / P R - AV A R E / S P
+.9 .C A S T R O / P R - AV A R E / S P
+.10 .JAG U A R I A I V A / P R - AV A R E / S P
+.11 .PIRAI DO SUL/PR-AVARE/SP
+.12 .PONTA GROSSA/PR-AVARE/SP
+.13 .C U R I T I BA / P R - AV A R E / S P
+.14 .J O I N V I L L E / S C - AV A R E / S P
+.15 .ITA JAI/SC-AVARE/SP
+.16 .BALNEARIO CAMBORIU/SC-AVARE/SP
+.17 .I T A P E M A / S C - AV A R E / S P
+.18 .F LO R I A N O P O L I S / S C - B OT U C AT U / S P
+.19 .WENCESLAU BRAZ/PR-BOTUCATU/SP
+.20 .A R A P OT I / P R - B OT U C AT U / S P
+.21 .C A S T R O / P R - B OT U C AT U / S P
+.22 .JAG U A R I A I V A / P R - B OT U C AT U / S P
+.23 .PIRAI DO SUL/PR-BOTUCATU/SP
+.24 .PONTA GROSSA/PR-BOTUCATU/SP
+.25 .C U R I T I BA / P R - B OT U C AT U / S P
+.26 .J O I N V I L L E / S C - B OT U C AT U / S P
+.27 .ITA JAI/SC-BOTUCATU/SP
+.28 .BALNEARIO CAMBORIU/SC-BOTUCATU/SP
+.29 .I T A P E M A / S C - B OT U C AT U / S P
+.30 .C A S T R O / P R - F LO R I A N O P O L I S / S C
+.31 .CASTRO/PR-JOINVILLE/SC
+.32 .CASTRO/PR-ITA JAI/SC
+.33 .CASTRO/PR-BALNEARIO CAMBORIU/SC
+.34 .CASTRO/PR-ITAPEMA/SC
+.35 .F LO R I A N O P O L I S / S C - I T A I / S P
+.36 .WENCESLAU BRAZ/PR-ITAI/SP
+.37 .A R A P OT I / P R - I T A I / S P
+.38 .CASTRO/PR-ITAI/SP
+.39 .JAG U A R I A I V A / P R - I T A I / S P
+.40 .PIRAI DO SUL/PR-ITAI/SP
+.41 .PONTA GROSSA/PR-ITAI/SP
+.42 .C U R I T I BA / P R - I T A I / S P
+.43 .JOINVILLE/SC-ITAI/SP
+.44 .ITA JAI/SC-ITAI/SP
+.45 .BALNEARIO CAMBORIU/SC-ITAI/SP
+.46 .ITAPEMA/SC-ITAI/SP
+.47 .F LO R I A N O P O L I S / S C - I T A P O R A N G A / S P
+.48 .WENCESLAU BRAZ/PR-ITAPORANGA/SP
+.49 .A R A P OT I / P R - I T A P O R A N G A / S P
+.50 .CASTRO/PR-ITAPORANGA/SP
+.51 .JAG U A R I A I V A / P R - I T A P O R A N G A / S P
+.52 .PIRAI DO SUL/PR-ITAPORANGA/SP
+.53 .PONTA GROSSA/PR-ITAPORANGA/SP
+.54 .C U R I T I BA / P R - I T A P O R A N G A / S P
+.55 .JOINVILLE/SC-ITAPORANGA/SP
+.56 .ITA JAI/SC-ITAPORANGA/SP
+.57 .BALNEARIO CAMBORIU/SC-ITAPORANGA/SP
+.58 .ITAPEMA/SC-ITAPORANGA/SP
+.59 .JAG U A R I A I V A / P R - F LO R I A N O P O L I S / S C
+.60 .JAG U A R I A I V A / P R - J O I N V I L L E / S C
+.61 .JAGUARIAIVA/PR-ITA JAI/SC
+.62 .JAGUARIAIVA/PR-BALNEARIO CAMBORIU/SC
+.63 .JAG U A R I A I V A / P R - I T A P E M A / S C
+.64 .PIRAI DO SUL/PR-FLORIANOPOLIS/SC
+.65 .PIRAI DO SUL/PR-JOINVILLE/SC
+.66 .PIRAI DO SUL/PR-ITAJAI/SC
+.67 .PIRAI DO SUL/PR-BALNEARIO CAMBORIU/SC
+.68 .PIRAI DO SUL/PR-ITAPEMA/SC
+.69 .PONTA GROSSA/PR-FLORIANOPOLIS/SC
+.70 .PONTA GROSSA/PR-JOINVILLE/SC
+.71 .PONTA GROSSA/PR-ITAJAI/SC
+.72 .PONTA GROSSA/PR-BALNEARIO CAMBORIU/SC
+.73 .PONTA GROSSA/PR-ITAPEMA/SC
+.74 .F LO R I A N O P O L I S / S C - T AQ U A R I T U BA / S P
+.75 .WENCESLAU BRAZ/PR-TAQUARITUBA/SP
+.76 .A R A P OT I / P R - T AQ U A R I T U BA / S P
+.77 .C A S T R O / P R - T AQ U A R I T U BA / S P
+.78 .JAG U A R I A I V A / P R - T AQ U A R I T U BA / S P
+.79 .PIRAI DO SUL/PR-TAQUARITUBA/SP
+.80 .PONTA GROSSA/PR-TAQUARITUBA/SP
+.81 .C U R I T I BA / P R - T AQ U A R I T U BA / S P
+.82 .J O I N V I L L E / S C - T AQ U A R I T U BA / S P
+.83 .ITA JAI/SC-TAQUARITUBA/SP
+.84 .BALNEARIO CAMBORIU/SC-TAQUARITUBA/SP
+.85 .I T A P E M A / S C - T AQ U A R I T U BA / S P
+.86 .WENCESLAU BRAZ/PR-FLORIANOPOLIS/SC
+.87 .WENCESLAU BRAZ/PR-JOINVILLE/SC
+.88 .WENCESLAU BRAZ/PR-ITAJAI/SC
+.89 .WENCESLAU BRAZ/PR-BALNEARIO CAMBORIU/SC
+.90 .WENCESLAU BRAZ/PR-ITAPEMA/SC
+Este documento pode ser verificado no endereço eletrônico
