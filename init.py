@@ -23,6 +23,11 @@ CATEGORY_REGEX = re.compile(
     re.MULTILINE
 )
 
+KEYWORDS_REGEX = re.compile(
+    r'\b(minist[eé]rio da defesa|ex[eé]rcito|marinha|aeron[aá]utica)\b',
+    re.IGNORECASE
+)
+
 # remover lixo
 def is_noise(text):
     noise_patterns = [
@@ -117,7 +122,22 @@ def split_publications(text):
 # -----------------------------
 
 def save_publications(publications):
+    saved = 0
+
     for i, pub in enumerate(publications):
+
+        full_content = f"{pub['category']} {pub['title']} {pub['text']}"
+
+        # condição 1: tem palavras-chave
+        has_keywords = KEYWORDS_REGEX.search(full_content)
+
+        # condição 2: categoria é Ministério da Defesa
+        is_defense_category = "ministério da defesa" in pub['category'].lower()
+
+        # 🔥 REGRA FINAL
+        if not (has_keywords or is_defense_category):
+            continue
+
         safe_title = re.sub(r'[^\w\s-]', '', pub["title"])[:100]
         filename = f"{i+1:04d}_{safe_title}.txt"
 
@@ -127,7 +147,11 @@ def save_publications(publications):
             f.write("TEXTO:\n")
             f.write(pub["text"])
 
+        saved += 1
 
+    print(f"Salvas {saved} publicações com filtro aplicado")
+
+    
 # -----------------------------
 # PIPELINE
 # -----------------------------
